@@ -1,0 +1,1 @@
+# babel-simple-skeleton
